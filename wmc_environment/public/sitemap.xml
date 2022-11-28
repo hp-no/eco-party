@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>http://www.wmcienviro.xyz/projects/</loc>
     <lastmod>2022-11-27T20:43:45-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://www.wmcienviro.xyz/</loc>
     <lastmod>2022-11-27T20:43:45-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://www.wmcienviro.xyz/blog/</loc>
     <lastmod>2022-11-27T20:43:28-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/post-1/</loc>
+    <loc>http://www.wmcienviro.xyz/blog/post-1/</loc>
     <lastmod>2022-11-27T20:43:28-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://www.wmcienviro.xyz/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://www.wmcienviro.xyz/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://www.wmcienviro.xyz/tags/</loc>
   </url>
 </urlset>
