@@ -1,4 +1,4 @@
-baseURL = 'http://www.wmcienviro.xyz/'
+baseURL = 'https://hp-no.github.io/eco-site/'
 languageCode = 'en-us'
 title = 'Home'
 theme = "ananke"
