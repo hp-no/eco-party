@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Home'
+theme = "ananke"
+
+[params]
+  recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/wmcienvironmentalclub?igshid=MDM4ZDc5MmU="
