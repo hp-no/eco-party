@@ -1,6 +1,8 @@
 ---
 title: "West and Eastern Canada plagued by ongoing wildfires"
 date: 2023-05-25T20:43:28-06:00
+featured_image: '/images/wildfire3.png'
+
 ---
 {{< youtube id="AsBFA0BJ4uc" title="Fear, anxiety and mounting losses as wildfires burn across Canada" >}}
 

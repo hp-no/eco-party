@@ -7,4 +7,6 @@ menu:
     main:
         weight: 3
 ---
-Coming soon... (WIP)
+As of now, this page is currently a work in progress.
+
+{{< youtube id="dQw4w9WgXcQ" autoplay="true" >}}
